@@ -1,11 +1,13 @@
-<<<<<<< HEAD
+
 # tutorflowclone
 
 
 ##### Migrations and __init__.py inside it, is needed to migrate Databases
 
 pip install -r .\requirements.txt
+
 python3 manage.py runserver 
+
 pip freeze
 
 ### DataMode: Entities
