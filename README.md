@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tutorflowclone
 
 
@@ -97,3 +98,6 @@ Steps:
 6. preventDefault(): prevents the character from being inserted
 7. Editor: editor.insertText()
 8. Custom elements: DefaultElement, CodeElement components
+=======
+# final_proj
+>>>>>>> 7a0019e22037ce3d1e3f1d02bbe3f021323143d4
